@@ -3,7 +3,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Torlaune Fußballblog</title>
-<meta name="description" content="">
+<meta name="description" content="break
+php
+  $q = $_SERVER['REQUEST_URI'];
+  if(strstr($q,'kicker')) {
+    $url =...">
 <meta name="keywords" content="Fußball,Blog,Videos,Ergebnisse,Tabellen,Statistik,Zitate,Fanartikel">
 <meta name="robots" content="index,follow">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,23 +33,21 @@
             <main class="col-9 content">
                 
 <h1>Zeitschriften- und Zeitungs-Abonnements</h1>
-<!--break-->
-
 <?php
-  $q = $_SERVER['REQUEST_URI'];
-  if(strstr($q,'kicker')) {
-    $url = 'http://www.abo-direkt.de/abodir/cgi-bin/abo.pl?id=718&pid=293250&pid=293250&s=718&ref=293250&ccode=g&aktion=A&objnr=013670';
-  } else if (strstr($q,'fuwo')) {
-    $url = 'http://www.abo-direkt.de/abodir/cgi-bin/abo.pl?id=718&pid=293250&pid=293250&s=718&ref=293250&ccode=g&aktion=A&objnr=031200';
-  } else if (strstr($q,'playboy')) {
-    $url = 'http://www.abo-direkt.de/abodir/cgi-bin/abo.pl?id=718&pid=293250&pid=293250&s=718&ref=293250&ccode=g&aktion=A&objnr=067930';
-  } else {
-    $url = 'http://partners.webmasterplan.com/click.asp?ref=293250&amp;site=1887&amp;type=text&amp;tnb=6&amp;pid=g';
-  }
- ?>
-<iframe height="1150" width="620" src="<?php print $url;?>" name="abo-direkt" id="abo-direkt" frameborder="0"></iframe>
-<img src="http://banners.webmasterplan.com/view.asp?ref=293250&amp;site=1887&amp;type=text&amp;tnb=6" alt="Abo-Shop"/>
-<p>Der Abo-Shop bei torlaune.de präsentiert von unserem Partner <em>abo-direkt.de</em>. Im Shop-Angebot finden Sie z.&nbsp;B. Sport- und Fußballzeitschriften, wie <em>Kicker</em>, <em>RUND</em>, <em>Player</em>, <em>Sport BILD</em>, <em>Fußball Magazin 4-4-2</em>, <em>Bravo Sport</em>, <em>France Football</em>, <em>Forza Milan</em>, <em>Match</em>, <em>Shoot</em>, <em>World Soccer</em> und viele weitere.</p>
+   $q = $_SERVER['REQUEST_URI'];
+   if(strstr($q,'kicker')) {
+     $url = 'http://www.abo-direkt.de/abodir/cgi-bin/abo.pl?id=718&pid=293250&pid=293250&s=718&ref=293250&ccode=g&aktion=A&objnr=013670';
+   } else if (strstr($q,'fuwo')) {
+     $url = 'http://www.abo-direkt.de/abodir/cgi-bin/abo.pl?id=718&pid=293250&pid=293250&s=718&ref=293250&ccode=g&aktion=A&objnr=031200';
+   } else if (strstr($q,'playboy')) {
+     $url = 'http://www.abo-direkt.de/abodir/cgi-bin/abo.pl?id=718&pid=293250&pid=293250&s=718&ref=293250&ccode=g&aktion=A&objnr=067930';
+   } else {
+     $url = 'http://partners.webmasterplan.com/click.asp?ref=293250&amp;site=1887&amp;type=text&amp;tnb=6&amp;pid=g';
+   }
+  ?>
+ <iframe height="1150" width="620" src="<?php print $url;?>" name="abo-direkt" id="abo-direkt" frameborder="0"></iframe>
+ <img src="http://banners.webmasterplan.com/view.asp?ref=293250&amp;site=1887&amp;type=text&amp;tnb=6" alt="Abo-Shop"/>
+ <p>Der Abo-Shop bei torlaune.de präsentiert von unserem Partner <em>abo-direkt.de</em>. Im Shop-Angebot finden Sie z.&nbsp;B. Sport- und Fußballzeitschriften, wie <em>Kicker</em>, <em>RUND</em>, <em>Player</em>, <em>Sport BILD</em>, <em>Fußball Magazin 4-4-2</em>, <em>Bravo Sport</em>, <em>France Football</em>, <em>Forza Milan</em>, <em>Match</em>, <em>Shoot</em>, <em>World Soccer</em> und viele weitere.</p>
 
 
 <div class="box">
@@ -56,7 +58,7 @@ Tags: <a href="/tags/partnershops/">Partnershops</a>, <a href="/tags/abonnements
 </p>
 <p><strong>Veröffentlicht: </strong>October 02, 2006<br>
 Wenn Sie über neue Inhalte informiert werden wollen, <a href="/rss.xml">abonnieren Sie den RSS-Feed</a>.</p>
-<p class="small"><strong>Offenlegung:</strong> Externe Links auf dieser Seite können Partner-IDs enthalten. Wenn Sie einen Kauf über einen solchen Links abschließen erhalte ich eine Provision, was mir das Betreiben dieser Website und Anbieten hoffentlich nützlicher und frei zugänglicher Inhalte ermöglicht. Weitere Informationen <a rel="nofollow" href="/info/impressum/#disclosure">zu den Partnerprogrammen</a>.</p>
+<p class="small"><strong>Offenlegung:</strong> Externe Links auf dieser Seite können Partner-IDs enthalten. Wenn Sie einen Kauf über einen solchen Links abschließen erhalte ich eine Provision, was mir das Betreiben dieser Website und Anbieten hoffentlich nützlicher und frei zugänglicher Inhalte ermöglicht. Weitere Informationen <a rel="nofollow" href="/info/impressum/">zu den Partnerprogrammen</a>.</p>
 </div>
 
             </main>

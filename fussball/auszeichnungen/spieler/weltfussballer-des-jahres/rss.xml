@@ -3,24 +3,28 @@
 <channel><title>Fussball » Auszeichnungen » Spieler » Weltfussballer Des Jahres</title>
     <link>http://www.torlaune.de</link>
     <description>Fussball » Auszeichnungen » Spieler » Weltfussballer Des Jahres</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:01 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:15 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Herren]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[In der folgenden Tabelle sind die männlichen Weltfußballer des Jahres seit 1991 aufgeführt. Bisher wurden nur Spieler gewählt, die zur Zeit Ihrer Wahl...]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Frauen]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/frauen/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[In der folgenden Tabelle sind die weiblichen Weltfußballerinnen des Jahres seit 2001 aufgeführt. Die deutsche Torjägerin Birgit Prinz brachte das...]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/frauen/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

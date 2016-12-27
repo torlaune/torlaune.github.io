@@ -3,32 +3,42 @@
 <channel><title>Tags » Polen</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Polen</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:01 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Spanien wärmt sich gegen Polen auf]]></title>
         <link><![CDATA[http://www.torlaune.de/videos/spanien-warmt-sich-gegen-polen-auf/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Im letzten Vorbereitungsspiel vor der WM 2010 haben die Spanier im Estadio Nueva Condomina in Murcia die polnische Nationalmanschaft mit 6:0...]]></description>
         <guid><![CDATA[http://www.torlaune.de/videos/spanien-warmt-sich-gegen-polen-auf/]]></guid>
         <pubDate>Tue, 08 Jun 2010 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Gruppe B]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Ergebnisse und die aktuelle Tabelle der Gruppe B der Euro 2008.
+
+	wt_table_width = '450px';
+	wt_font_family = 'arial';
+	wt_font_size =...]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></guid>
         <pubDate>Tue, 29 Apr 2008 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Unsere Nachbarn können es doch]]></title>
         <link><![CDATA[http://www.torlaune.de/videos/unsere-nachbarn-konnen-es-doch/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Dass die polnischen Fußballfans nach dem schlechten Abschneiden bei der Fußball-WM 2006 auf ein erfolgreicheres EM-Turnier 2008 hoffen können, zeigen...]]></description>
         <guid><![CDATA[http://www.torlaune.de/videos/unsere-nachbarn-konnen-es-doch/]]></guid>
         <pubDate>Tue, 15 Aug 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

@@ -3,16 +3,18 @@
 <channel><title>Tags » Sitzung</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Sitzung</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:01 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Typisch Mann]]></title>
         <link><![CDATA[http://www.torlaune.de/videos/typisch-mann/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Kann er nicht wenigstens auf dem Klo die Zeitung lesen, auch wenn gerade das wichtigste Spiel der Saison in der Glotze läuft.]]></description>
         <guid><![CDATA[http://www.torlaune.de/videos/typisch-mann/]]></guid>
         <pubDate>Fri, 27 Oct 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

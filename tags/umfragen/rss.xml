@@ -3,9 +3,10 @@
 <channel><title>Tags » Umfragen</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Umfragen</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:01 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:17 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Erreicht der FCB 2007 den UEFA-Cup?]]></title>
@@ -15,6 +16,8 @@
         <pubDate>Tue, 30 Jan 2007 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Sollte es Gehaltsobergrenzen für Fußballer geben?]]></title>
         <link><![CDATA[http://www.torlaune.de/umfragen/sollte-es-gehaltsobergrenzen-fur-fussballer-geben/]]></link>
@@ -22,6 +25,8 @@
         <guid><![CDATA[http://www.torlaune.de/umfragen/sollte-es-gehaltsobergrenzen-fur-fussballer-geben/]]></guid>
         <pubDate>Fri, 17 Nov 2006 00:00:00 </pubDate>
     </item>
+    
+    
     
     <item>
         <title><![CDATA[Ist Thomas Doll in der Rückrunde noch Trainer beim HSV?]]></title>
@@ -31,6 +36,8 @@
         <pubDate>Sat, 04 Nov 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Ich finde die Sportbild-Kolumne von Lothar Matthäus]]></title>
         <link><![CDATA[http://www.torlaune.de/umfragen/ich-finde-die-sportbild-kolumne-von-lothar-matthaus/]]></link>
@@ -38,6 +45,8 @@
         <guid><![CDATA[http://www.torlaune.de/umfragen/ich-finde-die-sportbild-kolumne-von-lothar-matthaus/]]></guid>
         <pubDate>Thu, 19 Oct 2006 00:00:00 </pubDate>
     </item>
+    
+    
     
     <item>
         <title><![CDATA[Meinung zum Fußballfilm Deutschland ein. Sommermärchen]]></title>
@@ -47,13 +56,17 @@
         <pubDate>Wed, 04 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Die hübschesten WAGS]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/die-hubschesten-wags/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Cheryl TweedyDer Spielehersteller SEGA führte kürzlich eine Umfrage zu den hübschesten WAGS (Wifes And Girlfriends - Spielerfrauen und Freundinnen)...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/die-hubschesten-wags/]]></guid>
         <pubDate>Wed, 13 Sep 2006 00:00:00 </pubDate>
     </item>
+    
+    
     
     <item>
         <title><![CDATA[Wo steht Werder Bremen am Ende der Champions League-Gruppenphase 2006/2007?]]></title>
@@ -63,6 +76,8 @@
         <pubDate>Fri, 25 Aug 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Wer wird deutscher Meister 2006/2007?]]></title>
         <link><![CDATA[http://www.torlaune.de/umfragen/wer-wird-deutscher-meister-2006-2007/]]></link>
@@ -70,5 +85,6 @@
         <guid><![CDATA[http://www.torlaune.de/umfragen/wer-wird-deutscher-meister-2006-2007/]]></guid>
         <pubDate>Wed, 09 Aug 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

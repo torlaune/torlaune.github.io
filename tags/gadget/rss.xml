@@ -3,16 +3,18 @@
 <channel><title>Tags » Gadget</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Gadget</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Euro 2008 Countdown]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/euro-2008-countdown/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Die deutsche Meisterschaft ist seit heute praktisch entschieden. Die Bayern haben nach dem 4:1 gegen den amtierenden Meister VfB Stuttgart nun 12...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/euro-2008-countdown/]]></guid>
         <pubDate>Sun, 27 Apr 2008 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

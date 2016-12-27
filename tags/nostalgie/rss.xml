@@ -3,40 +3,50 @@
 <channel><title>Tags » Nostalgie</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Nostalgie</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Matten-Memory]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/matten_memory/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Angeblich hat sich Bayern-Trainer Felix Magath letztens für Kurzhaarfrisuren bei seinen Spielern ausgesprochen, da das mehr Aggressivität...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/matten_memory/]]></guid>
         <pubDate>Sun, 05 Nov 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Panini-Sammelalben, Aufkleber und Sammlungen]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/fanshop/panini/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Panini-Sammelalben, Aufkleber und Sammlungen zur Bundesliga, WM, EM und mehr aus dem gesamten Angebot bei unserem Partner-Shop eBay. Nicht nur für...]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/panini/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Retro]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/fanshop/retro/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Retro Trikots, Shirts, Jacken, Hosen, Schals, Wimpel und andere nostalgische Artikel aus dem Fußball-Fanshop bei unserem Partner eBay.break
+]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/retro/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Fußball Raritäten]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/fanshop/raritaten/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Fußball Raritäten, Seltenes und Sammlerstücke aus der Kategorie Fußball Fanshop bei unseren Partnershops.break
+]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/raritaten/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

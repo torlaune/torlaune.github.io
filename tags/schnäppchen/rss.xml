@@ -3,16 +3,18 @@
 <channel><title>Tags » Schnäppchen</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Schnäppchen</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:17 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Merkwürdiges Schnäppchen]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/merkwurdiges_schnappchen/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Bei web.de bin ich gerade auf den Artikel Becks gibt es zum Schnäppchenpreis gestoßen. Gemeint war leider nicht der Gerstensaft, sondern David...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/merkwurdiges_schnappchen/]]></guid>
         <pubDate>Wed, 25 Oct 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

@@ -3,16 +3,22 @@
 <channel><title>Tags » Immobilien</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Immobilien</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:17 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Immobilien]]></title>
         <link><![CDATA[http://www.torlaune.de/partnershops/wohnen/immobiliensuche/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[break
+
+
+
+Die Suche nach Wohnungen und anderen Immobilien bei torlaune.de präsentiert von unserem Partner ImmobilienScout24.Neben der kostenlosen...]]></description>
         <guid><![CDATA[http://www.torlaune.de/partnershops/wohnen/immobiliensuche/]]></guid>
         <pubDate>Thu, 12 Oct 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

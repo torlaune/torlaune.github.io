@@ -3,32 +3,46 @@
 <channel><title>Tags » Super League</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Super League</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:01 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:17 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Der Pfiff des Jahres 2008]]></title>
         <link><![CDATA[http://www.torlaune.de/videos/der-pfiff-des-jahres-2008/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Im aktuellen Sportstudio gibt es an Bundesliga-Spieltagen zum Abschluss der Fußballberichterstattung immer den Pfiff des Tages. Nachdem ich bereits...]]></description>
         <guid><![CDATA[http://www.torlaune.de/videos/der-pfiff-des-jahres-2008/]]></guid>
         <pubDate>Fri, 19 Dec 2008 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Super League Schweiz]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/super_league_schweiz/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Super League in der Schweiz.break
+
+
+var SCM_STANDINGS_BG_COLOR="#99cc66";
+var...]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/super_league_schweiz/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Super League Schweiz]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/super_league_schweiz/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Super League in der Schweiz.break
+
+
+var SCM_FIXTURES_BG_COLOR="#99cc66";
+var...]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/super_league_schweiz/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

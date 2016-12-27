@@ -3,40 +3,50 @@
 <channel><title>Tags » Endspiel</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Endspiel</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Der Traum von der Champions League]]></title>
         <link><![CDATA[http://www.torlaune.de/videos/miro/2006/10/10/der_traum_von_der_champions_league/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Für den AC Mailand ist es wohl eher ein Alptraum. Normalerweise bringen sie gegen jeden Verein ein 3:0 locker nach hause. Nicht aber im Champions...]]></description>
         <guid><![CDATA[http://www.torlaune.de/videos/miro/2006/10/10/der_traum_von_der_champions_league/]]></guid>
         <pubDate>Tue, 10 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Europapokalendspiele 2008 und 2009]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/miro/2006/10/04/europapokalendspiele_2008_und_2009/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Das Exekutivkommitee der UEFA hat entschieden. Berlin und Hamburg sind mit ihren Bewerbungen um die Endspiele im Europapokal gescheitert. Die...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/miro/2006/10/04/europapokalendspiele_2008_und_2009/]]></guid>
         <pubDate>Wed, 04 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Endspiele]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/endspiele/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[In der folgenden Tabelle sind die Endspiele aller Fußball-Weltmeisterschaften aufgeführt.break
+
+JahrGastgeberStadionWeltmeister2....]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/endspiele/]]></guid>
         <pubDate>Thu, 31 Aug 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Endspiele]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/champions_league/endspiele/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[In der folgenden Tabelle sind alle Endspiele der Champions League und des Europapokals der Landesmeister...]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/champions_league/endspiele/]]></guid>
         <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

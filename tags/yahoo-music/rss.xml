@@ -3,24 +3,33 @@
 <channel><title>Tags » Yahoo Music</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Yahoo Music</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Online Videos suchen]]></title>
         <link><![CDATA[http://www.torlaune.de/videos/online-videos-suchen/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[break
+
+Ihr Browser kann leider keine eingebetteten Frames anzeigen.
+
+
+]]></description>
         <guid><![CDATA[http://www.torlaune.de/videos/online-videos-suchen/]]></guid>
         <pubDate>Sat, 14 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Neue Videosuche]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/neue-videosuche/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Mit der Suche nach Online Videos werden verschiedene Anbieter von Online-Videos, wie Google, Youtube, MSN Video, Grouper, Yahoo! Music, BBC, AOL und...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/neue-videosuche/]]></guid>
         <pubDate>Sat, 14 Oct 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

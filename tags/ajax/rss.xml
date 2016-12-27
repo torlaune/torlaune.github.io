@@ -3,24 +3,29 @@
 <channel><title>Tags » Ajax</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Ajax</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:17 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Youtube Videos: Top-Verdiener im Fußball 2006]]></title>
         <link><![CDATA[http://www.torlaune.de/youtube-videos-top-verdiener-im-fussball-2006/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[break
+Browser unterstützt keine IFRAMES]]></description>
         <guid><![CDATA[http://www.torlaune.de/youtube-videos-top-verdiener-im-fussball-2006/]]></guid>
         <pubDate>Sat, 31 Mar 2007 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Die bestbezahlten Fußballer 2006 im Web 2.0]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/die-bestbezahlten-fussballer-2006-im-web-2-0/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Die Auflistung der Top-Verdiener im Profifußball 2006 allein ist auf Dauer dröge. Um mal zu sehen, was diese Spieler so drauf haben, habe ich ein...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/die-bestbezahlten-fussballer-2006-im-web-2-0/]]></guid>
         <pubDate>Sat, 31 Mar 2007 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

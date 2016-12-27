@@ -3,24 +3,28 @@
 <channel><title>Tags » Wurfattacke</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Wurfattacke</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:03 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:17 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Der DFB-Pokal und seine Gesetze]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/der_dfb_pokal_und_seine_gesetze/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Pokalspiele sind etwas besonderes, das behaupten nicht nur die Reporter im wieder, sondern zeigt sich oft genug an den Ergebnissen. Im DFB-Pokal hat...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/der_dfb_pokal_und_seine_gesetze/]]></guid>
         <pubDate>Thu, 26 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Droht dem HSV ein Geisterspiel?]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/miro/2006/09/25/droht_dem_hsv_ein_geisterspiel/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Leere AOL-ArenaNach Wurfattacken von HSV-Fans auf Bremens Torwart Tim Wiese im Bundesliga-Nordderby zwischen dem HSV und Werder Bremen (1:1) am...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/miro/2006/09/25/droht_dem_hsv_ein_geisterspiel/]]></guid>
         <pubDate>Mon, 25 Sep 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

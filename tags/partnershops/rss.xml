@@ -3,72 +3,109 @@
 <channel><title>Tags » Partnershops</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Partnershops</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Retro]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/fanshop/retro/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Retro Trikots, Shirts, Jacken, Hosen, Schals, Wimpel und andere nostalgische Artikel aus dem Fußball-Fanshop bei unserem Partner eBay.break
+]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/retro/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Fußballschuhe]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/fanshop/fussballschuhe/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Fußballschuhe von Nike, Adidas und Puma aus der Kategorie Fußball bei unserem Partner eBay.break
+]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/fussballschuhe/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Fanartikel Auktionen]]></title>
         <link><![CDATA[http://www.torlaune.de/fussball/fanshop/fanartikel/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Jacken, Trikots, Autogrammkarten, Fahnen/Flaggen, Feuerzeuge und andere Fanartikel aus der Kategorie Fußball-Fanshop bei unserem Partner eBay.break]]></description>
         <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/fanartikel/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Immobilien]]></title>
         <link><![CDATA[http://www.torlaune.de/partnershops/wohnen/immobiliensuche/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[break
+
+
+
+Die Suche nach Wohnungen und anderen Immobilien bei torlaune.de präsentiert von unserem Partner ImmobilienScout24.Neben der kostenlosen...]]></description>
         <guid><![CDATA[http://www.torlaune.de/partnershops/wohnen/immobiliensuche/]]></guid>
         <pubDate>Thu, 12 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Torlaune Fanartikel]]></title>
         <link><![CDATA[http://www.torlaune.de/partnershops/fanartikel/torlaune/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[break
+
+In unserem Torlaune.de-Fanshop finden Sie Fußball-Fanartikel, wie Trikots, Mützen, Hosen usw. Dieser Shop wird in Partnerschaft mit dem...]]></description>
         <guid><![CDATA[http://www.torlaune.de/partnershops/fanartikel/torlaune/]]></guid>
         <pubDate>Wed, 04 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Handys / Mobiltelefone]]></title>
         <link><![CDATA[http://www.torlaune.de/partnershops/telekommunikation/handys_mobiltelefone/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[break
+
+
+
+Der Handy-Shop bei torlaune.de präsentiert von unserem Partner Talkline. Hier finden Sie die Top-Angebote von Herstellern wie Samsung, Sony...]]></description>
         <guid><![CDATA[http://www.torlaune.de/partnershops/telekommunikation/handys_mobiltelefone/]]></guid>
         <pubDate>Mon, 02 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[DSL-Flatrate]]></title>
         <link><![CDATA[http://www.torlaune.de/partnershops/telekommunikation/internet/dsl-flatrate/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[break
+
+
+
+Große 3 DSL Einführungsaktion bei 1&1!
+Mit 3 DSL erhalten Sie ein Komplettpaket mit Highspeed-Internetanschluss inklusive Internet-FLAT +...]]></description>
         <guid><![CDATA[http://www.torlaune.de/partnershops/telekommunikation/internet/dsl-flatrate/]]></guid>
         <pubDate>Mon, 02 Oct 2006 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Zeitschriften- und Zeitungs-Abonnements]]></title>
         <link><![CDATA[http://www.torlaune.de/partnershops/lesen/abonnements/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[break
+php
+  $q = $_SERVER['REQUEST_URI'];
+  if(strstr($q,'kicker')) {
+    $url =...]]></description>
         <guid><![CDATA[http://www.torlaune.de/partnershops/lesen/abonnements/]]></guid>
         <pubDate>Mon, 02 Oct 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

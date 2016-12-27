@@ -3,24 +3,28 @@
 <channel><title>Fussballer » Pedro</title>
     <link>http://www.torlaune.de</link>
     <description>Fussballer » Pedro</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:01 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Champions League Finalteilnehmer nach Größe]]></title>
         <link><![CDATA[http://www.torlaune.de/bilder/champions-league-finalteilnehmer-nach-grosse/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Wenige Tage vor dem Finale der Champions League-Saison 2015/16 hat die Berliner Morgenpost eine interaktive Grafik zu den teilnehmenden Spielern...]]></description>
         <guid><![CDATA[http://www.torlaune.de/bilder/champions-league-finalteilnehmer-nach-grosse/]]></guid>
         <pubDate>Wed, 03 Jun 2015 00:00:00 </pubDate>
     </item>
     
+    
+    
     <item>
         <title><![CDATA[Spanien wärmt sich gegen Polen auf]]></title>
         <link><![CDATA[http://www.torlaune.de/videos/spanien-warmt-sich-gegen-polen-auf/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Im letzten Vorbereitungsspiel vor der WM 2010 haben die Spanier im Estadio Nueva Condomina in Murcia die polnische Nationalmanschaft mit 6:0...]]></description>
         <guid><![CDATA[http://www.torlaune.de/videos/spanien-warmt-sich-gegen-polen-auf/]]></guid>
         <pubDate>Tue, 08 Jun 2010 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

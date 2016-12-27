@@ -3,16 +3,19 @@
 <channel><title>Tags » Quiz</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Quiz</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:03 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Quiz: Der erfolgloseste drogenabhängige Trainer]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/quiz-der-erfolgloseste-drogenabhangige-trainer/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Take the pollFree Poll by Blog Flux
+Hinweis: Das Quiz endet, wenn der 1.FC Köln einen freien Trainerposten hat.break]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/quiz-der-erfolgloseste-drogenabhangige-trainer/]]></guid>
         <pubDate>Mon, 26 Nov 2007 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

@@ -3,16 +3,18 @@
 <channel><title>Tags » In Den Mund Gelegt</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » In Den Mund Gelegt</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[Frohe Ostern]]></title>
         <link><![CDATA[http://www.torlaune.de/videos/frohe-ostern/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Zwei Streithähne, die zu Ostern Eier suchen wollen. Passt doch wie die Faust aufs Auge. Na dann viel Spaß!]]></description>
         <guid><![CDATA[http://www.torlaune.de/videos/frohe-ostern/]]></guid>
         <pubDate>Sat, 07 Apr 2007 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>

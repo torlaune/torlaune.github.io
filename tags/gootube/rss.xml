@@ -3,16 +3,18 @@
 <channel><title>Tags » Gootube</title>
     <link>http://www.torlaune.de</link>
     <description>Tags » Gootube</description>
-    <lastBuildDate>Tue, 27 Dec 2016 14:17:02 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 00:38:16 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
     
     <item>
         <title><![CDATA[YouTube vom Aussterben bedroht]]></title>
         <link><![CDATA[http://www.torlaune.de/blog/youtube_vom_aussterben_bedroht/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Nach Google's Übernahme der Video-Sharing-Website Youtube werden immer mehr Videos bei Youtube gelöscht. Die Gründe dafür liegen auf der Hand. Youtube...]]></description>
         <guid><![CDATA[http://www.torlaune.de/blog/youtube_vom_aussterben_bedroht/]]></guid>
         <pubDate>Wed, 25 Oct 2006 00:00:00 </pubDate>
     </item>
+    
     
 </channel></rss>
