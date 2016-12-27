@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Fussballer » Bernd Schuster</title>
+    <link>http://www.torlaune.de</link>
+    <description>Fussballer » Bernd Schuster</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:18:00 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Die Vendetta des FC Barcelona]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/die-vendetta-des-fc-barcelona/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/die-vendetta-des-fc-barcelona/]]></guid>
+        <pubDate>Fri, 19 Dec 2008 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Valencia hat ein Abwehrproblem]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/valencia-hat-ein-abwehrproblem/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/valencia-hat-ein-abwehrproblem/]]></guid>
+        <pubDate>Mon, 05 May 2008 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Getafe schmeißt Barcelona aus dem Pokal]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/getafe-schmeisst-barcelona-aus-dem-pokal/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/getafe-schmeisst-barcelona-aus-dem-pokal/]]></guid>
+        <pubDate>Thu, 10 May 2007 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

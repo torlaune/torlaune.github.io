@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Vereine » Sparta Prag</title>
+    <link>http://www.torlaune.de</link>
+    <description>Vereine » Sparta Prag</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:18:00 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[This is Sparta]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/this-is-sparta/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/this-is-sparta/]]></guid>
+        <pubDate>Fri, 26 Sep 2008 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

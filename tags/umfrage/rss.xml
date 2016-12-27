@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Umfrage</title>
+    <link>http://www.torlaune.de</link>
+    <description>Tags » Umfrage</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Europas beste Liga]]></title>
+        <link><![CDATA[http://www.torlaune.de/umfragen/europas-beste-liga/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/umfragen/europas-beste-liga/]]></guid>
+        <pubDate>Sun, 08 Apr 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Spieglein Spieglein an der Wand]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/spieglein-spieglein-an-der-wand/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/spieglein-spieglein-an-der-wand/]]></guid>
+        <pubDate>Sat, 24 Mar 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Nur Unentschieden für Bayern München]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/nur-unentschieden-fur-bayern-munchen/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/nur-unentschieden-fur-bayern-munchen/]]></guid>
+        <pubDate>Tue, 30 Jan 2007 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

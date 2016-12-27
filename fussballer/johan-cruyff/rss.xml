@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Fussballer » Johan Cruyff</title>
+    <link>http://www.torlaune.de</link>
+    <description>Fussballer » Johan Cruyff</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Fußball im Daumenkino]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/fussball-im-daumenkino/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/fussball-im-daumenkino/]]></guid>
+        <pubDate>Thu, 10 Jun 2010 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Die besten Fallrückzieher]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/die-besten-fallruckzieher/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/die-besten-fallruckzieher/]]></guid>
+        <pubDate>Sat, 12 May 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Wieso einfach]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/wieso-einfach/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/wieso-einfach/]]></guid>
+        <pubDate>Mon, 21 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

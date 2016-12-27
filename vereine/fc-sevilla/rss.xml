@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Vereine » Fc Sevilla</title>
+    <link>http://www.torlaune.de</link>
+    <description>Vereine » Fc Sevilla</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Cristiano Ronaldo Blutet]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/cristiano-ronaldo-blutet/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/cristiano-ronaldo-blutet/]]></guid>
+        <pubDate>Sun, 16 Sep 2012 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sergio Ramos der Winnetouesque]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/sergio-ramos-der-winnetouesque/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/sergio-ramos-der-winnetouesque/]]></guid>
+        <pubDate>Sat, 28 Jun 2008 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Boxkampf in Zaragoza]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/boxkampf-in-zaragoza/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/boxkampf-in-zaragoza/]]></guid>
+        <pubDate>Mon, 08 Jan 2007 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

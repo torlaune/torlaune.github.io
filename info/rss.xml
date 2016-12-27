@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Info</title>
+    <link>http://www.torlaune.de</link>
+    <description>Info</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Impressum / Datenschutzerklärung]]></title>
+        <link><![CDATA[http://www.torlaune.de/info/impressum/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/info/impressum/]]></guid>
+        <pubDate>Mon, 29 Feb 2016 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Zugriff auf diese Seite verweigert]]></title>
+        <link><![CDATA[http://www.torlaune.de/info/zugriff_verweigert/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/info/zugriff_verweigert/]]></guid>
+        <pubDate>Wed, 16 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Angeforderte Seite nicht gefunden]]></title>
+        <link><![CDATA[http://www.torlaune.de/info/seite_nicht_gefunden/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/info/seite_nicht_gefunden/]]></guid>
+        <pubDate>Wed, 16 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

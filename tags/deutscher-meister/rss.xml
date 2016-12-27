@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Deutscher Meister</title>
+    <link>http://www.torlaune.de</link>
+    <description>Tags » Deutscher Meister</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Euro 2008 Countdown]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/euro-2008-countdown/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/euro-2008-countdown/]]></guid>
+        <pubDate>Sun, 27 Apr 2008 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Meister der Tränen?]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/meister-der-tranen/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/meister-der-tranen/]]></guid>
+        <pubDate>Sat, 12 May 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Klose in Torlaune]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/klose-in-torlaune/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/klose-in-torlaune/]]></guid>
+        <pubDate>Thu, 17 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Wer wird deutscher Meister 2006/2007?]]></title>
+        <link><![CDATA[http://www.torlaune.de/umfragen/wer-wird-deutscher-meister-2006-2007/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/umfragen/wer-wird-deutscher-meister-2006-2007/]]></guid>
+        <pubDate>Wed, 09 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

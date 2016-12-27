@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Wettbewerbe</title>
+    <link>http://www.torlaune.de</link>
+    <description>Tags » Wettbewerbe</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Wettbewerbe]]></title>
+        <link><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/]]></guid>
+        <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Wettbewerbe]]></title>
+        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/]]></guid>
+        <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[WM Herren]]></title>
+        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/]]></guid>
+        <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Vereine » Arminia Bielefeld</title>
+    <link>http://www.torlaune.de</link>
+    <description>Vereine » Arminia Bielefeld</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Zauberveh und Titelheldt]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/zauberveh-und-titelheldt/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/zauberveh-und-titelheldt/]]></guid>
+        <pubDate>Sun, 20 May 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Mach Wunder möglich!]]></title>
+        <link><![CDATA[http://www.torlaune.de/bilder/mach-wunder-moglich/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/bilder/mach-wunder-moglich/]]></guid>
+        <pubDate>Sat, 31 Mar 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ioannis Masmanidis Interaktiv]]></title>
+        <link><![CDATA[http://www.torlaune.de/bilder/ioannis-masmanidis-interaktiv/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/bilder/ioannis-masmanidis-interaktiv/]]></guid>
+        <pubDate>Sat, 17 Mar 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sergej Barbarez feiert mit den Fans]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/miro/2006/10/12/sergej_barbarez_feiert_mit_den_fans/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/miro/2006/10/12/sergej_barbarez_feiert_mit_den_fans/]]></guid>
+        <pubDate>Thu, 12 Oct 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

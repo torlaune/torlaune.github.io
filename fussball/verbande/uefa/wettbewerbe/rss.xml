@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Fussball » Verbande » Uefa » Wettbewerbe</title>
+    <link>http://www.torlaune.de</link>
+    <description>Fussball » Verbande » Uefa » Wettbewerbe</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:18:00 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Champions League]]></title>
+        <link><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/champions_league/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/champions_league/]]></guid>
+        <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Endspiele]]></title>
+        <link><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/champions_league/endspiele/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/champions_league/endspiele/]]></guid>
+        <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Roman Abramowitsch</title>
+    <link>http://www.torlaune.de</link>
+    <description>Tags » Roman Abramowitsch</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Jeder Kopf hat seinen Preis]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/jeder_kopf_hat_seinen_preis/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/jeder_kopf_hat_seinen_preis/]]></guid>
+        <pubDate>Sat, 04 Nov 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[WM-Ball-Versteigerung]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/wm_ball_versteigerung/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/wm_ball_versteigerung/]]></guid>
+        <pubDate>Wed, 01 Nov 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Die Liga der Milliardäre]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/die-liga-der-milliardare/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/die-liga-der-milliardare/]]></guid>
+        <pubDate>Thu, 17 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

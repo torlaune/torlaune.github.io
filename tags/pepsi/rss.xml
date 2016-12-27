@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Pepsi</title>
+    <link>http://www.torlaune.de</link>
+    <description>Tags » Pepsi</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:59 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Fußball im Wilden Westen]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/fussball_im_wilden_westen/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/fussball_im_wilden_westen/]]></guid>
+        <pubDate>Mon, 06 Nov 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Pepsi-Automaten sind gefährlich]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/pepsi_automaten_sind_gefahrlich/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/pepsi_automaten_sind_gefahrlich/]]></guid>
+        <pubDate>Thu, 19 Oct 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

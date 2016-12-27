@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Countdown</title>
+    <link>http://www.torlaune.de</link>
+    <description>Tags » Countdown</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[EURO 2012 Countdown]]></title>
+        <link><![CDATA[http://www.torlaune.de/euro-2012-countdown/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/euro-2012-countdown/]]></guid>
+        <pubDate>Thu, 06 Jan 2011 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Euro 2008 Countdown]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/euro-2008-countdown/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/euro-2008-countdown/]]></guid>
+        <pubDate>Sun, 27 Apr 2008 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

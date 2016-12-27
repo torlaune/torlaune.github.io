@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Ligue 1</title>
+    <link>http://www.torlaune.de</link>
+    <description>Tags » Ligue 1</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Rémi Maréval holt den Hammer raus]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/remi-mareval-holt-den-hammer-raus/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/remi-mareval-holt-den-hammer-raus/]]></guid>
+        <pubDate>Mon, 03 Nov 2008 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Europas beste Liga]]></title>
+        <link><![CDATA[http://www.torlaune.de/umfragen/europas-beste-liga/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/umfragen/europas-beste-liga/]]></guid>
+        <pubDate>Sun, 08 Apr 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ergebnisse]]></title>
+        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ligue 1]]></title>
+        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ligue 1]]></title>
+        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

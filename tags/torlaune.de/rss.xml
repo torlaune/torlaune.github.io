@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Torlaune.De</title>
+    <link>http://www.torlaune.de</link>
+    <description>Tags » Torlaune.De</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:18:00 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Winterpause 2006/2007]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/winterpause-2006-2007/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/winterpause-2006-2007/]]></guid>
+        <pubDate>Sat, 23 Dec 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Launch von Torlaune.de]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/launch-von-torlaune-de/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/launch-von-torlaune-de/]]></guid>
+        <pubDate>Mon, 07 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Fußball Blogs</title>
+    <link>http://www.torlaune.de</link>
+    <description>Tags » Fußball Blogs</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Links Außen]]></title>
+        <link><![CDATA[http://www.torlaune.de/links-aussen/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/links-aussen/]]></guid>
+        <pubDate>Thu, 05 Apr 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Völlig von der Rolle]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/vollig-von-der-rolle/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/vollig-von-der-rolle/]]></guid>
+        <pubDate>Thu, 05 Apr 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Aktion: Unser Fußball]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/aktion-unser-fussball/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/aktion-unser-fussball/]]></guid>
+        <pubDate>Wed, 01 Nov 2006 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Fußball-Blogs durchsuchen]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/fussball_blogs_durchsuchen/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/fussball_blogs_durchsuchen/]]></guid>
+        <pubDate>Thu, 26 Oct 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>

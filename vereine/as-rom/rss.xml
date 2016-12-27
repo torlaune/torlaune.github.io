@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Vereine » As Rom</title>
+    <link>http://www.torlaune.de</link>
+    <description>Vereine » As Rom</description>
+    <lastBuildDate>Tue, 27 Dec 2016 13:17:58 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Der Torreigen ging weiter]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/der-torreigen-ging-weiter/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/der-torreigen-ging-weiter/]]></guid>
+        <pubDate>Tue, 10 Apr 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[ManU wie im Rausch]]></title>
+        <link><![CDATA[http://www.torlaune.de/blog/manu-wie-im-rausch/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/blog/manu-wie-im-rausch/]]></guid>
+        <pubDate>Tue, 10 Apr 2007 00:00:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Der Perfekte Elfmeter - Schlechte Kopie]]></title>
+        <link><![CDATA[http://www.torlaune.de/videos/miro/2006/10/01/der_perfekte_elfmeter_schlechte_kopie/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.torlaune.de/videos/miro/2006/10/01/der_perfekte_elfmeter_schlechte_kopie/]]></guid>
+        <pubDate>Sun, 01 Oct 2006 00:00:00 </pubDate>
+    </item>
+    
+</channel></rss>
