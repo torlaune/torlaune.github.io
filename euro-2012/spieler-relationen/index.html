@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Spieler-Relationen bei der EURO 2012 nach Ländern</title>
+<style type="text/css">
+body {font-size:80%;}
+#footer {text-align:center;font-size:1em;}
+.link {stroke: #ccc;}
+.nodetext {pointer-events: none; font:1em sans-serif;}
+.current {font-weight: bold;}
+#social {margin:1.5em auto 0;width:450px;}
+.social {float:left;width:150px;}
+.spacer5 {clear:both;height:5px;}
+</style>
+</head>
+<body>
+<div id="fb-root"></div>
+<select id="teams"></select><div id="vis"></div>
+<footer id="footer">
+<div id="social">
+<div class="social fb-send" data-href="http://www.torlaune.de/euro-2012/spieler-relationen/"></div>
+<div class="social"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.torlaune.de/euro-2012/spieler-relationen/" data-via="fussballvideos">Tweet</a></div>
+<div class="social"><g:plusone size="medium" annotation="inline" width="150" href="http://www.torlaune.de/euro-2012/spieler-relationen/"></g:plusone></div>
+</div>
+<div class="spacer5"></div>
+<p>Eine Visualisierung zur EURO 2012 von <a href="http://www.torlaune.de/">Torlaune</a>. Mehr Informationen enthält der Artikel <a href="http://www.torlaune.de/bilder/wie-sind-spieler-der-euro-2012-miteinander-verbunden">Wie sind Spieler der Euro 2012 miteinander verbunden?</a></p></footer>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="d3.v2.js"></script>
+<script src="graphs.js"></script>
+<script src="force_directed.js"></script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</body>
+</html>
