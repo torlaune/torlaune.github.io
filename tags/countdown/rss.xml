@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Countdown</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Countdown</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:30 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
         <title><![CDATA[EURO 2012 Countdown]]></title>
-        <link><![CDATA[http://www.torlaune.de/euro-2012-countdown/]]></link>
+        <link><![CDATA[https://www.torlaune.de/euro-2012-countdown/]]></link>
         <description><![CDATA[break
 if (WIDGETBOX) WIDGETBOX.renderWidget('605a8580-fb0c-4dd3-b974-c0320ee76dc1');Get the Euro 2012 Countdown widget and many other great free...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/euro-2012-countdown/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/euro-2012-countdown/]]></guid>
         <pubDate>Thu, 06 Jan 2011 00:00:00 </pubDate>
     </item>
     
@@ -21,9 +21,9 @@ if (WIDGETBOX) WIDGETBOX.renderWidget('605a8580-fb0c-4dd3-b974-c0320ee76dc1');Ge
     
     <item>
         <title><![CDATA[Euro 2008 Countdown]]></title>
-        <link><![CDATA[http://www.torlaune.de/blog/euro-2008-countdown/]]></link>
+        <link><![CDATA[https://www.torlaune.de/blog/euro-2008-countdown/]]></link>
         <description><![CDATA[Die deutsche Meisterschaft ist seit heute praktisch entschieden. Die Bayern haben nach dem 4:1 gegen den amtierenden Meister VfB Stuttgart nun 12...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/blog/euro-2008-countdown/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/blog/euro-2008-countdown/]]></guid>
         <pubDate>Sun, 27 Apr 2008 00:00:00 </pubDate>
     </item>
     

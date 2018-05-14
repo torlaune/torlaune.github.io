@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Fanshop</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Fanshop</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:31 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
-        <title><![CDATA[Fußballschuhe]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/fanshop/fussballschuhe/]]></link>
-        <description><![CDATA[Fußballschuhe von Nike, Adidas und Puma aus der Kategorie Fußball bei unserem Partner eBay.break
-]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/fussballschuhe/]]></guid>
+        <title><![CDATA[Fanartikel Auktionen]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/fanartikel/]]></link>
+        <description><![CDATA[Jacken, Trikots, Autogrammkarten, Fahnen/Flaggen, Feuerzeuge und andere Fanartikel aus der Kategorie Fußball-Fanshop bei unserem Partner eBay.break]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/fanartikel/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
     
     
     <item>
-        <title><![CDATA[Fanartikel Auktionen]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/fanshop/fanartikel/]]></link>
-        <description><![CDATA[Jacken, Trikots, Autogrammkarten, Fahnen/Flaggen, Feuerzeuge und andere Fanartikel aus der Kategorie Fußball-Fanshop bei unserem Partner eBay.break]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/fanartikel/]]></guid>
+        <title><![CDATA[Fußballschuhe]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/fussballschuhe/]]></link>
+        <description><![CDATA[Fußballschuhe von Nike, Adidas und Puma aus der Kategorie Fußball bei unserem Partner eBay.break
+]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/fussballschuhe/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
@@ -31,11 +31,11 @@
     
     <item>
         <title><![CDATA[Torlaune Fanartikel]]></title>
-        <link><![CDATA[http://www.torlaune.de/partnershops/fanartikel/torlaune/]]></link>
+        <link><![CDATA[https://www.torlaune.de/partnershops/fanartikel/torlaune/]]></link>
         <description><![CDATA[break
 
 In unserem Torlaune.de-Fanshop finden Sie Fußball-Fanartikel, wie Trikots, Mützen, Hosen usw. Dieser Shop wird in Partnerschaft mit dem...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/partnershops/fanartikel/torlaune/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/partnershops/fanartikel/torlaune/]]></guid>
         <pubDate>Wed, 04 Oct 2006 00:00:00 </pubDate>
     </item>
     

@@ -1,38 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Handy</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Handy</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:30 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
-        <title><![CDATA[Nokia Handys]]></title>
-        <link><![CDATA[http://www.torlaune.de/handys/nokia/]]></link>
-        <description><![CDATA[Nokia 6080 Black mit Debitel Mini Home VodafoneDas Nokia 6080 Mobiltelefon sieht nicht nur gut aus, sondern ist auch unglaublich praktisch. Mit seinem...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/handys/nokia/]]></guid>
-        <pubDate>Wed, 16 Apr 2008 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
         <title><![CDATA[Samsung Handys]]></title>
-        <link><![CDATA[http://www.torlaune.de/handys/samsung/]]></link>
+        <link><![CDATA[https://www.torlaune.de/handys/samsung/]]></link>
         <description><![CDATA[Samsung SGH-E900 Pink mit Debitel Mini Home T-MobileDas SGH-E900 präsentiert sich in einer perfekten Symbiose aus stilvoller und eleganter...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/handys/samsung/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/handys/samsung/]]></guid>
         <pubDate>Wed, 16 Apr 2008 00:00:00 </pubDate>
     </item>
     
     
     
     <item>
-        <title><![CDATA[Sony Ericsson Handys]]></title>
-        <link><![CDATA[http://www.torlaune.de/handys/sony-ericsson/]]></link>
-        <description><![CDATA[Sony Ericsson K800i Allure Brown mit Debitel Mini Home o2Endlich. Eine Cyber-shot™-Digitalkamera und ein kleines UMTS-Handy mit großem Funktionsumfang...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/handys/sony-ericsson/]]></guid>
+        <title><![CDATA[Nokia Handys]]></title>
+        <link><![CDATA[https://www.torlaune.de/handys/nokia/]]></link>
+        <description><![CDATA[Nokia 6080 Black mit Debitel Mini Home VodafoneDas Nokia 6080 Mobiltelefon sieht nicht nur gut aus, sondern ist auch unglaublich praktisch. Mit seinem...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/handys/nokia/]]></guid>
         <pubDate>Wed, 16 Apr 2008 00:00:00 </pubDate>
     </item>
     
@@ -40,9 +30,19 @@
     
     <item>
         <title><![CDATA[LG Handys]]></title>
-        <link><![CDATA[http://www.torlaune.de/handys/lg/]]></link>
+        <link><![CDATA[https://www.torlaune.de/handys/lg/]]></link>
         <description><![CDATA[LG KG800 Chocolate Wine mit Debitel Mini Home VodafoneDas LG Chocolate jetzt auch in wine. Mit dem LG Chocolate beginnt eine neue Art der...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/handys/lg/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/handys/lg/]]></guid>
+        <pubDate>Wed, 16 Apr 2008 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Sony Ericsson Handys]]></title>
+        <link><![CDATA[https://www.torlaune.de/handys/sony-ericsson/]]></link>
+        <description><![CDATA[Sony Ericsson K800i Allure Brown mit Debitel Mini Home o2Endlich. Eine Cyber-shot™-Digitalkamera und ein kleines UMTS-Handy mit großem Funktionsumfang...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/handys/sony-ericsson/]]></guid>
         <pubDate>Wed, 16 Apr 2008 00:00:00 </pubDate>
     </item>
     

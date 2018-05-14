@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Aol</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Aol</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:31 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
-        <title><![CDATA[Online Videos suchen]]></title>
-        <link><![CDATA[http://www.torlaune.de/videos/online-videos-suchen/]]></link>
-        <description><![CDATA[break
-
-Ihr Browser kann leider keine eingebetteten Frames anzeigen.
-
-
-]]></description>
-        <guid><![CDATA[http://www.torlaune.de/videos/online-videos-suchen/]]></guid>
+        <title><![CDATA[Neue Videosuche]]></title>
+        <link><![CDATA[https://www.torlaune.de/blog/neue-videosuche/]]></link>
+        <description><![CDATA[Mit der Suche nach Online Videos werden verschiedene Anbieter von Online-Videos, wie Google, Youtube, MSN Video, Grouper, Yahoo! Music, BBC, AOL und...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/blog/neue-videosuche/]]></guid>
         <pubDate>Sat, 14 Oct 2006 00:00:00 </pubDate>
     </item>
     
     
     
     <item>
-        <title><![CDATA[Neue Videosuche]]></title>
-        <link><![CDATA[http://www.torlaune.de/blog/neue-videosuche/]]></link>
-        <description><![CDATA[Mit der Suche nach Online Videos werden verschiedene Anbieter von Online-Videos, wie Google, Youtube, MSN Video, Grouper, Yahoo! Music, BBC, AOL und...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/blog/neue-videosuche/]]></guid>
+        <title><![CDATA[Online Videos suchen]]></title>
+        <link><![CDATA[https://www.torlaune.de/videos/online-videos-suchen/]]></link>
+        <description><![CDATA[break
+
+Ihr Browser kann leider keine eingebetteten Frames anzeigen.
+
+
+]]></description>
+        <guid><![CDATA[https://www.torlaune.de/videos/online-videos-suchen/]]></guid>
         <pubDate>Sat, 14 Oct 2006 00:00:00 </pubDate>
     </item>
     

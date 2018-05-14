@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Tabellen</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Tabellen</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:30 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
         <title><![CDATA[Zauberveh und Titelheldt]]></title>
-        <link><![CDATA[http://www.torlaune.de/blog/zauberveh-und-titelheldt/]]></link>
+        <link><![CDATA[https://www.torlaune.de/blog/zauberveh-und-titelheldt/]]></link>
         <description><![CDATA[Nach einer beitragsfreien Woche auf Torlaune.de fühle ich mich wieder zum Schreiben berufen. Welches Thema bietet sich da besser als die gestrige...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/blog/zauberveh-und-titelheldt/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/blog/zauberveh-und-titelheldt/]]></guid>
         <pubDate>Sun, 20 May 2007 00:00:00 </pubDate>
     </item>
     
@@ -20,9 +20,9 @@
     
     <item>
         <title><![CDATA[Aktuell]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/]]></link>
         <description><![CDATA[In diesem Abschnitt finden Sie aktuelle Fußballtabellen aus verschiedenen Fußballligen, wie der deutschen und österreichischen Bundesliga, der...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -30,93 +30,9 @@
     
     <item>
         <title><![CDATA[Tabellen]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/]]></link>
         <description><![CDATA[In diesem Abschnitt finden Sie aktuelle Fußballtabellen aus verschiedenen Fußballligen und Wettbewerben, wie der deutschen und österreichischen...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Eredivisie]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/eredivisie/]]></link>
-        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Eredivisie in den Niederlanden.break
-
-
-var SCM_STANDINGS_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/eredivisie/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[2. Bundesliga]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/2_bundesliga/]]></link>
-        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der 2. Bundesliga in Deutschland.break
-
-
-var SCM_STANDINGS_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/2_bundesliga/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[1. Bundesliga]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/1_bundesliga/]]></link>
-        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der 1. Bundesliga in Deutschland.break
-
-
-var SCM_STANDINGS_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/1_bundesliga/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Serie A]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/serie_a/]]></link>
-        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Serie A in Italien.break
-
-
-var SCM_STANDINGS_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/serie_a/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Primera División]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/primera_division/]]></link>
-        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Primera División in Spanien.break
-
-
-var SCM_STANDINGS_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/primera_division/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Süper Lig Türkei]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/super_lig_turkei/]]></link>
-        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Süper Lig in der Türkei.break
-
-
-var SCM_STANDINGS_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/super_lig_turkei/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -124,13 +40,97 @@ var...]]></description>
     
     <item>
         <title><![CDATA[Ligue 1]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></link>
         <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Ligue 1 in Frankreich.break
 
 
 var SCM_STANDINGS_BG_COLOR="#99cc66";
 var...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[1. Bundesliga]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/1_bundesliga/]]></link>
+        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der 1. Bundesliga in Deutschland.break
+
+
+var SCM_STANDINGS_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/1_bundesliga/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Süper Lig Türkei]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/super_lig_turkei/]]></link>
+        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Süper Lig in der Türkei.break
+
+
+var SCM_STANDINGS_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/super_lig_turkei/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Bundesliga Österreich]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/bundesliga_osterreich/]]></link>
+        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Bundesliga in Österreich.break
+
+
+var SCM_STANDINGS_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/bundesliga_osterreich/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Serie A]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/serie_a/]]></link>
+        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Serie A in Italien.break
+
+
+var SCM_STANDINGS_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/serie_a/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Primera División]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/primera_division/]]></link>
+        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Primera División in Spanien.break
+
+
+var SCM_STANDINGS_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/primera_division/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Eredivisie]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/eredivisie/]]></link>
+        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Eredivisie in den Niederlanden.break
+
+
+var SCM_STANDINGS_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/eredivisie/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Toolbar</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Toolbar</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:31 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
         <title><![CDATA[Firefox-Plugin für die Torlaune.de Suche]]></title>
-        <link><![CDATA[http://www.torlaune.de/blog/firefox-plugin-fur-die-torlaune-de-suche/]]></link>
+        <link><![CDATA[https://www.torlaune.de/blog/firefox-plugin-fur-die-torlaune-de-suche/]]></link>
         <description><![CDATA[Benutzer des Browsers Firefox können jetzt mit dem neuen Such-Plugin für Torlaune.de diese Website direkt über die Browser-Toolbar durchsuchen. Das...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/blog/firefox-plugin-fur-die-torlaune-de-suche/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/blog/firefox-plugin-fur-die-torlaune-de-suche/]]></guid>
         <pubDate>Sat, 30 Sep 2006 00:00:00 </pubDate>
     </item>
     

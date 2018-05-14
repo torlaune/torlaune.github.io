@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Jacken</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Jacken</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:30 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
-        <title><![CDATA[Puma]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/fanshop/puma/]]></link>
-        <description><![CDATA[Fußball-Artikel wie Trikots, Jacken, Shirts von Puma aus der Kategorie Fußball Fanshop bei unserem Partner eBay.break
-]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/puma/]]></guid>
-        <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
         <title><![CDATA[Nike]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/fanshop/nike/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/nike/]]></link>
         <description><![CDATA[Fußball-Artikel wie Trikots, Jacken, Shirts von Nike aus der Kategorie Fußball Fanshop bei unserem Partner eBay.break
 ]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/nike/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/nike/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
@@ -32,9 +21,20 @@
     
     <item>
         <title><![CDATA[Adidas]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/fanshop/adidas/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/adidas/]]></link>
         <description><![CDATA[Fußball-Artikel wie Trikots, Jacken, Shirts von Adidas aus der Kategorie Fußball Fanshop bei unserem Partner eBay.]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/fanshop/adidas/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/adidas/]]></guid>
+        <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Puma]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/puma/]]></link>
+        <description><![CDATA[Fußball-Artikel wie Trikots, Jacken, Shirts von Puma aus der Kategorie Fußball Fanshop bei unserem Partner eBay.break
+]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/puma/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
@@ -42,11 +42,11 @@
     
     <item>
         <title><![CDATA[Torlaune Fanartikel]]></title>
-        <link><![CDATA[http://www.torlaune.de/partnershops/fanartikel/torlaune/]]></link>
+        <link><![CDATA[https://www.torlaune.de/partnershops/fanartikel/torlaune/]]></link>
         <description><![CDATA[break
 
 In unserem Torlaune.de-Fanshop finden Sie Fußball-Fanartikel, wie Trikots, Mützen, Hosen usw. Dieser Shop wird in Partnerschaft mit dem...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/partnershops/fanartikel/torlaune/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/partnershops/fanartikel/torlaune/]]></guid>
         <pubDate>Wed, 04 Oct 2006 00:00:00 </pubDate>
     </item>
     

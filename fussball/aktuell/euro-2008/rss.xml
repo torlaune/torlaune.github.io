@@ -1,36 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Fussball » Aktuell » Euro 2008</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Fussball » Aktuell » Euro 2008</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:30 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
-        <title><![CDATA[Gruppe C]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-c/]]></link>
-        <description><![CDATA[Ergebnisse und die aktuelle Tabelle der Gruppe C der Euro 2008.
-
-	wt_table_width = '450px';
-	wt_font_family = 'arial';
-	wt_font_size =...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-c/]]></guid>
-        <pubDate>Tue, 29 Apr 2008 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
         <title><![CDATA[Gruppe D]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-d/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-d/]]></link>
         <description><![CDATA[Ergebnisse und die aktuelle Tabelle der Gruppe D der Euro 2008.
 
 	wt_table_width = '450px';
 	wt_font_family = 'arial';
 	wt_font_size =...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-d/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-d/]]></guid>
         <pubDate>Tue, 29 Apr 2008 00:00:00 </pubDate>
     </item>
     
@@ -38,13 +24,27 @@
     
     <item>
         <title><![CDATA[Gruppe A]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-a/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-a/]]></link>
         <description><![CDATA[Ergebnisse und die aktuelle Tabelle der Gruppe A der Euro 2008.
 
 	wt_table_width = '450px';
 	wt_font_family = 'arial';
 	wt_font_size =...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-a/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-a/]]></guid>
+        <pubDate>Tue, 29 Apr 2008 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Gruppe C]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-c/]]></link>
+        <description><![CDATA[Ergebnisse und die aktuelle Tabelle der Gruppe C der Euro 2008.
+
+	wt_table_width = '450px';
+	wt_font_family = 'arial';
+	wt_font_size =...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-c/]]></guid>
         <pubDate>Tue, 29 Apr 2008 00:00:00 </pubDate>
     </item>
     
@@ -52,13 +52,13 @@
     
     <item>
         <title><![CDATA[Gruppe B]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></link>
         <description><![CDATA[Ergebnisse und die aktuelle Tabelle der Gruppe B der Euro 2008.
 
 	wt_table_width = '450px';
 	wt_font_family = 'arial';
 	wt_font_size =...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></guid>
         <pubDate>Tue, 29 Apr 2008 00:00:00 </pubDate>
     </item>
     

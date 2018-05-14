@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Fussball » Verbande » Fifa » Wettbewerbe » Wm_Herren</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Fussball » Verbande » Fifa » Wettbewerbe » Wm_Herren</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:30 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
         <title><![CDATA[Rekorde]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/]]></link>
         <description><![CDATA[In diesem Abschnitt sind verschiedene bemerkenswerte Rekorde in der Geschichte der Fußballweltmeisterschaften der Herren aufgeführt.]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/]]></guid>
         <pubDate>Tue, 12 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -20,25 +20,12 @@
     
     <item>
         <title><![CDATA[Länder]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/lander/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/lander/]]></link>
         <description><![CDATA[Auf dieser Seite sind Rekorde mit Bezug auf die teilnehmenden Länder aufgeführt.break
 
 Die meisten WM-Teilnahmen
 Brasilien ist das einzige Land, dass...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/lander/]]></guid>
-        <pubDate>Tue, 12 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Spiele]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spiele/]]></link>
-        <description><![CDATA[Auf dieser Seite sind Rekorde mit Bezug auf einzelne WM-Spiele aufgeführt.break
-
-Der höchste Sieg
-Den höchsten Sieg in einem WM-Spiel erzielte Ungarn...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spiele/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/lander/]]></guid>
         <pubDate>Tue, 12 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -46,12 +33,25 @@ Den höchsten Sieg in einem WM-Spiel erzielte Ungarn...]]></description>
     
     <item>
         <title><![CDATA[Spieler]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spieler/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spieler/]]></link>
         <description><![CDATA[Auf dieser Seite sind Rekorde mit Bezug auf die teilnehmenden Spieler aufgeführt.break
 
 Die meisten WM-Titel
 Brasiliens Fußballlegende Pelé gewann...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spieler/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spieler/]]></guid>
+        <pubDate>Tue, 12 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Spiele]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spiele/]]></link>
+        <description><![CDATA[Auf dieser Seite sind Rekorde mit Bezug auf einzelne WM-Spiele aufgeführt.break
+
+Der höchste Sieg
+Den höchsten Sieg in einem WM-Spiel erzielte Ungarn...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spiele/]]></guid>
         <pubDate>Tue, 12 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -59,9 +59,9 @@ Brasiliens Fußballlegende Pelé gewann...]]></description>
     
     <item>
         <title><![CDATA[Torschützenkönige]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/torschutzenkonige/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/torschutzenkonige/]]></link>
         <description><![CDATA[In der folgenden Tabelle sind alle Torschützenkönige in der Geschichte der Fußball-Weltmeisterschaften aufgeführt. Seit Gerd Müller 1970 in Mexiko hat...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/torschutzenkonige/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/torschutzenkonige/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -69,11 +69,11 @@ Brasiliens Fußballlegende Pelé gewann...]]></description>
     
     <item>
         <title><![CDATA[Endspiele]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/endspiele/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/endspiele/]]></link>
         <description><![CDATA[In der folgenden Tabelle sind die Endspiele aller Fußball-Weltmeisterschaften aufgeführt.break
 
 JahrGastgeberStadionWeltmeister2....]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/endspiele/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/endspiele/]]></guid>
         <pubDate>Thu, 31 Aug 2006 00:00:00 </pubDate>
     </item>
     
@@ -81,9 +81,9 @@ JahrGastgeberStadionWeltmeister2....]]></description>
     
     <item>
         <title><![CDATA[Die erfolgreichsten Torschützen]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spieler/die_erfolgreichsten_torschutzen/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spieler/die_erfolgreichsten_torschutzen/]]></link>
         <description><![CDATA[In der folgenden Tabelle sind die erflogreichsten Torschützen in der Geschichte der Fußball-Weltmeisterschaften aufgeführt. Nachdem der als Bomber der...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spieler/die_erfolgreichsten_torschutzen/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spieler/die_erfolgreichsten_torschutzen/]]></guid>
         <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
     </item>
     

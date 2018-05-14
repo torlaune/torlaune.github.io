@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Verbände</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Verbände</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:30 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
         <title><![CDATA[Verbände]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/]]></link>
         <description><![CDATA[Die zahlreichen Wettbewerbe im Fußball werden von nationalen und internationalen Verbänden durchgeführt. Der einflussreichste und mächtigste ist der...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/]]></guid>
-        <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[UEFA]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/]]></link>
-        <description><![CDATA[Die UEFA (Union of European Football Associations, deutsch: Vereinigung europäischer Fußballverbände) ist der europäische Fußballverband. Die UEFA...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/uefa/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/]]></guid>
         <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
     </item>
     
@@ -30,9 +20,19 @@
     
     <item>
         <title><![CDATA[FIFA]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/]]></link>
         <description><![CDATA[Die FIFA (Fédération Internationale de Football Association, deutsch Internationale Föderation des Verbandsfußballs) ist der Weltfußballverband mit...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/verbande/fifa/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/]]></guid>
+        <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[UEFA]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/uefa/]]></link>
+        <description><![CDATA[Die UEFA (Union of European Football Associations, deutsch: Vereinigung europäischer Fußballverbände) ist der europäische Fußballverband. Die UEFA...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/uefa/]]></guid>
         <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
     </item>
     

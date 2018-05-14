@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Website Info</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Website Info</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:30 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
         <title><![CDATA[Firefox-Plugin für die Torlaune.de Suche]]></title>
-        <link><![CDATA[http://www.torlaune.de/blog/firefox-plugin-fur-die-torlaune-de-suche/]]></link>
+        <link><![CDATA[https://www.torlaune.de/blog/firefox-plugin-fur-die-torlaune-de-suche/]]></link>
         <description><![CDATA[Benutzer des Browsers Firefox können jetzt mit dem neuen Such-Plugin für Torlaune.de diese Website direkt über die Browser-Toolbar durchsuchen. Das...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/blog/firefox-plugin-fur-die-torlaune-de-suche/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/blog/firefox-plugin-fur-die-torlaune-de-suche/]]></guid>
         <pubDate>Sat, 30 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -20,9 +20,9 @@
     
     <item>
         <title><![CDATA[Fußball ist unser Leben]]></title>
-        <link><![CDATA[http://www.torlaune.de/uber_torlaune/fussball_ist_unser_leben/]]></link>
+        <link><![CDATA[https://www.torlaune.de/uber_torlaune/fussball_ist_unser_leben/]]></link>
         <description><![CDATA[»Fußball ist unser Leben« hieß es im WM-Song der deutschen Nationalmannschaft von 1974 und so ist es auch auf Torlaune.de. Auf dieser...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/uber_torlaune/fussball_ist_unser_leben/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/uber_torlaune/fussball_ist_unser_leben/]]></guid>
         <pubDate>Tue, 05 Sep 2006 00:00:00 </pubDate>
     </item>
     

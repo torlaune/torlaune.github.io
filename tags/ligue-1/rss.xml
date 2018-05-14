@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Ligue 1</title>
-    <link>http://www.torlaune.de</link>
+    <link>https://www.torlaune.de</link>
     <description>Tags » Ligue 1</description>
-    <lastBuildDate>Fri, 29 Sep 2017 13:56:30 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:30:23 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     
     <item>
         <title><![CDATA[Rémi Maréval holt den Hammer raus]]></title>
-        <link><![CDATA[http://www.torlaune.de/videos/remi-mareval-holt-den-hammer-raus/]]></link>
+        <link><![CDATA[https://www.torlaune.de/videos/remi-mareval-holt-den-hammer-raus/]]></link>
         <description><![CDATA[Wer jetzt Obszönes denkt, liegt vollkommen daneben. Rémi Maréval seines Zeichens Abwehrspiel beim FC Nantes hat am 11. Spieltag der Ligue 1 im Spiel...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/videos/remi-mareval-holt-den-hammer-raus/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/videos/remi-mareval-holt-den-hammer-raus/]]></guid>
         <pubDate>Mon, 03 Nov 2008 00:00:00 </pubDate>
     </item>
     
@@ -20,9 +20,9 @@
     
     <item>
         <title><![CDATA[Europas beste Liga]]></title>
-        <link><![CDATA[http://www.torlaune.de/umfragen/europas-beste-liga/]]></link>
+        <link><![CDATA[https://www.torlaune.de/umfragen/europas-beste-liga/]]></link>
         <description><![CDATA[]]></description>
-        <guid><![CDATA[http://www.torlaune.de/umfragen/europas-beste-liga/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/umfragen/europas-beste-liga/]]></guid>
         <pubDate>Sun, 08 Apr 2007 00:00:00 </pubDate>
     </item>
     
@@ -30,9 +30,9 @@
     
     <item>
         <title><![CDATA[Ergebnisse]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/]]></link>
         <description><![CDATA[Aktuelle Fußballergebnisse aus verschiedenen Ligen (Bundesliga, Eredivisie, Ergebnisse, Ligue 1, Premier League, Primera División, Serie A, Süper Lig)...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -40,27 +40,27 @@
     
     <item>
         <title><![CDATA[Ligue 1]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></link>
-        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Ligue 1 in Frankreich.break
-
-
-var SCM_STANDINGS_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Ligue 1]]></title>
-        <link><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></link>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></link>
         <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Ligue 1 in Frankreich.break
 
 
 var SCM_FIXTURES_BG_COLOR="#99cc66";
 var...]]></description>
-        <guid><![CDATA[http://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Ligue 1]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></link>
+        <description><![CDATA[Die aktuelle Tabelle nach dem letzten Spieltags der Ligue 1 in Frankreich.break
+
+
+var SCM_STANDINGS_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/tabellen/ligue_1/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     
