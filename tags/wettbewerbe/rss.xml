@@ -3,20 +3,9 @@
 <channel><title>Tags » Wettbewerbe</title>
     <link>https://www.torlaune.de</link>
     <description>Tags » Wettbewerbe</description>
-    <lastBuildDate>Sat, 03 Nov 2018 00:04:00 </lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    
-    <item>
-        <title><![CDATA[Wettbewerbe]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/]]></link>
-        <description><![CDATA[Die UEFA ist Ausrichter zahlreicher bedeutender Fußballwettbewerbe. Die wichtigsten sind im Folgenden aufgeführt.
-UEFA-Wettbewerbe für...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/]]></guid>
-        <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
-    </item>
-    
     
     
     <item>
@@ -35,6 +24,17 @@ Fußball-Weltmeisterschaft der...]]></description>
         <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/]]></link>
         <description><![CDATA[Die Fußball-Weltmeisterschaft der Herren ist der wohl wichtigste Wettbewerb im Fußball überhaupt. Dieses Turnier findet alle vier Jahre statt. Im...]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/]]></guid>
+        <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Wettbewerbe]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/]]></link>
+        <description><![CDATA[Die UEFA ist Ausrichter zahlreicher bedeutender Fußballwettbewerbe. Die wichtigsten sind im Folgenden aufgeführt.
+UEFA-Wettbewerbe für...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/uefa/wettbewerbe/]]></guid>
         <pubDate>Wed, 30 Aug 2006 00:00:00 </pubDate>
     </item>
     

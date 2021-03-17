@@ -3,9 +3,19 @@
 <channel><title>Tags » Retro</title>
     <link>https://www.torlaune.de</link>
     <description>Tags » Retro</description>
-    <lastBuildDate>Sat, 03 Nov 2018 00:04:00 </lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    
+    <item>
+        <title><![CDATA[Retro]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/retro/]]></link>
+        <description><![CDATA[Retro Trikots, Shirts, Jacken, Hosen, Schals, Wimpel und andere nostalgische Artikel aus dem Fußball-Fanshop bei unserem eBay suchen.]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/retro/]]></guid>
+        <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
+    </item>
+    
     
     
     <item>
@@ -14,17 +24,6 @@
         <description><![CDATA[Fußball Raritäten, Seltenes und Sammlerstücke aus der Kategorie Fußball Fanshop bei unseren Partnershops.break
 ]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/raritaten/]]></guid>
-        <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Retro]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/retro/]]></link>
-        <description><![CDATA[Retro Trikots, Shirts, Jacken, Hosen, Schals, Wimpel und andere nostalgische Artikel aus dem Fußball-Fanshop bei unserem Partner eBay.break
-]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/retro/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     

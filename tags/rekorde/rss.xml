@@ -3,7 +3,7 @@
 <channel><title>Tags » Rekorde</title>
     <link>https://www.torlaune.de</link>
     <description>Tags » Rekorde</description>
-    <lastBuildDate>Sat, 03 Nov 2018 00:04:00 </lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -79,6 +79,19 @@
     
     
     <item>
+        <title><![CDATA[Spiele]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spiele/]]></link>
+        <description><![CDATA[Auf dieser Seite sind Rekorde mit Bezug auf einzelne WM-Spiele aufgeführt.break
+
+Der höchste Sieg
+Den höchsten Sieg in einem WM-Spiel erzielte Ungarn...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spiele/]]></guid>
+        <pubDate>Tue, 12 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
         <title><![CDATA[Länder]]></title>
         <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/lander/]]></link>
         <description><![CDATA[Auf dieser Seite sind Rekorde mit Bezug auf die teilnehmenden Länder aufgeführt.break
@@ -99,19 +112,6 @@ Brasilien ist das einzige Land, dass...]]></description>
 Die meisten WM-Titel
 Brasiliens Fußballlegende Pelé gewann...]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spieler/]]></guid>
-        <pubDate>Tue, 12 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Spiele]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spiele/]]></link>
-        <description><![CDATA[Auf dieser Seite sind Rekorde mit Bezug auf einzelne WM-Spiele aufgeführt.break
-
-Der höchste Sieg
-Den höchsten Sieg in einem WM-Spiel erzielte Ungarn...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/verbande/fifa/wettbewerbe/wm_herren/rekorde/spiele/]]></guid>
         <pubDate>Tue, 12 Sep 2006 00:00:00 </pubDate>
     </item>
     

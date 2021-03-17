@@ -3,7 +3,7 @@
 <channel><title>Tags » Nostalgie</title>
     <link>https://www.torlaune.de</link>
     <description>Tags » Nostalgie</description>
-    <lastBuildDate>Sat, 03 Nov 2018 00:04:00 </lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -19,10 +19,10 @@
     
     
     <item>
-        <title><![CDATA[Panini-Sammelalben, Aufkleber und Sammlungen]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/panini/]]></link>
-        <description><![CDATA[Panini-Sammelalben, Aufkleber und Sammlungen zur Bundesliga, WM, EM und mehr aus dem gesamten Angebot bei unserem Partner-Shop eBay. Nicht nur für...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/panini/]]></guid>
+        <title><![CDATA[Retro]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/retro/]]></link>
+        <description><![CDATA[Retro Trikots, Shirts, Jacken, Hosen, Schals, Wimpel und andere nostalgische Artikel aus dem Fußball-Fanshop bei unserem eBay suchen.]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/retro/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     
@@ -40,11 +40,10 @@
     
     
     <item>
-        <title><![CDATA[Retro]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/retro/]]></link>
-        <description><![CDATA[Retro Trikots, Shirts, Jacken, Hosen, Schals, Wimpel und andere nostalgische Artikel aus dem Fußball-Fanshop bei unserem Partner eBay.break
-]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/retro/]]></guid>
+        <title><![CDATA[Panini-Sammelalben, Aufkleber und Sammlungen]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/fanshop/panini/]]></link>
+        <description><![CDATA[Panini-Sammelalben, Aufkleber und Sammlungen zur Bundesliga, WM, EM und mehr aus dem gesamten Angebot bei eBay suchen.]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/fanshop/panini/]]></guid>
         <pubDate>Sun, 29 Oct 2006 00:00:00 </pubDate>
     </item>
     

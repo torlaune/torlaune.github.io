@@ -30,41 +30,41 @@
                 
 <h1>Nur Unentschieden für Bayern München</h1>
 <p>Beim Betrachten der aktuellen Tabelle frage ich mich, ob die Bayern sich dieses Jahr für den UEFA-Cup qualifizieren und gebe die <a href="/umfragen/erreicht-der-fcb-2007-den-uefa-cup">Frage </a> an euch weiter.</p>
-
-<p>&lt;?php
-  $poll = node_load(array('type' =&gt; 'poll', 'nid' =&gt; 1135, 'moderate' =&gt; 0, 'status' =&gt; 1));
-   if ($poll-&gt;nid) {
-     // poll_view() dumps the output into $poll-&gt;body.
+<?php
+  $poll = node_load(array('type' => 'poll', 'nid' => 1135, 'moderate' => 0, 'status' => 1));
+   if ($poll->nid) {
+     // poll_view() dumps the output into $poll->body.
      poll_view($poll, 1, 0, 1);
    }
-   print $poll-&gt;body; 
- ?&gt;
- <p>Ich denke es wird knapp aber vermutlich schaffen sie es. Bremen und Schalke haben morgen jedenfalls die Möglichkeit, ihren Vorsprung auf die Bayern auf 8 Punkte auszubauen und Hertha kann bis auf einen Punkt Abstand herankommen. Das verspricht doch weitere Spannung!</p></p>
-<p><h2>Spielergebnisse vom 30.01.2007</h2>
- <table summary="Spielergebnisse vom 30.01.2007">
+   print $poll->body;
+ ?>
+<p>Ich denke es wird knapp aber vermutlich schaffen sie es. Bremen und Schalke haben morgen jedenfalls die Möglichkeit, ihren Vorsprung auf die Bayern auf 8 Punkte auszubauen und Hertha kann bis auf einen Punkt Abstand herankommen. Das verspricht doch weitere Spannung!</p>
+
+<h2>Spielergebnisse vom 30.01.2007</h2>
+<table summary="Spielergebnisse vom 30.01.2007">
  <tr>
- <th>Begegnung</th> 
- <th>Ergebnis</th> 
+ <th>Begegnung</th>
+ <th>Ergebnis</th>
  </tr>
  <tr>
- <td>Stuttgart - Bielefeld</td> 
- <td>3:2 (1:1)</td> 
- </tr> 
- <tr> 
- <td>FC Bayern - Bochum</td> 
- <td>0:0 (0:0)</td> 
- </tr> 
- <tr> 
- <td>Gladbach - Nürnberg</td> 
- <td>0:0 (0:0)</td> 
- </tr> 
- <tr> 
- <td>Wolfsburg - Frankfurt</td> 
- <td>2:2 (1:0)</td> 
- </tr> 
+ <td>Stuttgart - Bielefeld</td>
+ <td>3:2 (1:1)</td>
+ </tr>
+ <tr>
+ <td>FC Bayern - Bochum</td>
+ <td>0:0 (0:0)</td>
+ </tr>
+ <tr>
+ <td>Gladbach - Nürnberg</td>
+ <td>0:0 (0:0)</td>
+ </tr>
+ <tr>
+ <td>Wolfsburg - Frankfurt</td>
+ <td>2:2 (1:0)</td>
+ </tr>
  </table>
- <h2>Bundesliga-Tabelle vom 30.01.2007</h2>
- <table summary="Bundesliga-Tabelle vom 30.01.2007">
+<h2>Bundesliga-Tabelle vom 30.01.2007</h2>
+<table summary="Bundesliga-Tabelle vom 30.01.2007">
  <tr>
  <th>Platz</th>
  <th>Verein</th>
@@ -86,7 +86,7 @@
  <td>14</td>
  <td>39</td>
  </tr>
- <tr> 
+ <tr>
  <td>3</td>
  <td>VfB Stuttgart</td>
  <td>19</td>
@@ -100,14 +100,14 @@
  <td>10</td>
  <td>34</td>
  </tr>
- <tr> 
+ <tr>
  <td>5</td>
  <td>Hertha BSC</td>
  <td>18</td>
  <td>5</td>
  <td>30</td>
  </tr>
- </table></p>
+ </table>
 
 
 <div class="box">

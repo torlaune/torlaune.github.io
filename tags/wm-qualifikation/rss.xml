@@ -3,7 +3,7 @@
 <channel><title>Tags » Wm Qualifikation</title>
     <link>https://www.torlaune.de</link>
     <description>Tags » Wm Qualifikation</description>
-    <lastBuildDate>Sat, 03 Nov 2018 00:04:00 </lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -50,40 +50,20 @@
     
     
     <item>
-        <title><![CDATA[Gruppe 2]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-2/]]></link>
-        <description><![CDATA[Aktuelle Ergebnisse und Tabellen zu den Qualifikationsspielen für die Fußball-Weltmeisterschaft 2010 in Südafrika der Qualifikationsgruppe...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-2/]]></guid>
-        <pubDate>Sat, 06 Sep 2008 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Gruppe 1]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-1/]]></link>
-        <description><![CDATA[Aktuelle Ergebnisse und Tabellen zu den Qualifikationsspielen für die Fußball-Weltmeisterschaft 2010 in Südafrika der Qualifikationsgruppe...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-1/]]></guid>
-        <pubDate>Sat, 06 Sep 2008 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Gruppe 9]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-9/]]></link>
-        <description><![CDATA[Aktuelle Ergebnisse und Tabellen zu den Qualifikationsspielen für die Fußball-Weltmeisterschaft 2010 in Südafrika der Qualifikationsgruppe...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-9/]]></guid>
-        <pubDate>Sat, 06 Sep 2008 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
         <title><![CDATA[Gruppe 7]]></title>
         <link><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-7/]]></link>
         <description><![CDATA[Aktuelle Ergebnisse und Tabellen zu den Qualifikationsspielen für die Fußball-Weltmeisterschaft 2010 in Südafrika der Qualifikationsgruppe...]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-7/]]></guid>
+        <pubDate>Sat, 06 Sep 2008 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Gruppe 2]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-2/]]></link>
+        <description><![CDATA[Aktuelle Ergebnisse und Tabellen zu den Qualifikationsspielen für die Fußball-Weltmeisterschaft 2010 in Südafrika der Qualifikationsgruppe...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-2/]]></guid>
         <pubDate>Sat, 06 Sep 2008 00:00:00 </pubDate>
     </item>
     
@@ -100,10 +80,30 @@
     
     
     <item>
-        <title><![CDATA[Gruppe 3]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-3/]]></link>
+        <title><![CDATA[Gruppe 5]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-5/]]></link>
         <description><![CDATA[Aktuelle Ergebnisse und Tabellen zu den Qualifikationsspielen für die Fußball-Weltmeisterschaft 2010 in Südafrika der Qualifikationsgruppe...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-3/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-5/]]></guid>
+        <pubDate>Sat, 06 Sep 2008 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Gruppe 8]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-8/]]></link>
+        <description><![CDATA[Aktuelle Ergebnisse und Tabellen zu den Qualifikationsspielen für die Fußball-Weltmeisterschaft 2010 in Südafrika der Qualifikationsgruppe...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-8/]]></guid>
+        <pubDate>Sat, 06 Sep 2008 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Gruppe 9]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-9/]]></link>
+        <description><![CDATA[Aktuelle Ergebnisse und Tabellen zu den Qualifikationsspielen für die Fußball-Weltmeisterschaft 2010 in Südafrika der Qualifikationsgruppe...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/wm-2010-qualifikation/gruppe-9/]]></guid>
         <pubDate>Sat, 06 Sep 2008 00:00:00 </pubDate>
     </item>
     

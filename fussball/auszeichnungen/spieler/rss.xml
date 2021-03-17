@@ -3,7 +3,7 @@
 <channel><title>Fussball » Auszeichnungen » Spieler</title>
     <link>https://www.torlaune.de</link>
     <description>Fussball » Auszeichnungen » Spieler</description>
-    <lastBuildDate>Sat, 03 Nov 2018 00:04:00 </lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -29,6 +29,16 @@
     
     
     <item>
+        <title><![CDATA[WeltFußballer des Jahrhunderts]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahrhunderts/]]></link>
+        <description><![CDATA[Im Jahr 1999 wurde von der IFFHS (International Federation of Football History & Statistics) der WeltFußballer des 20. Jahrhunderts gewählt....]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahrhunderts/]]></guid>
+        <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
         <title><![CDATA[Welttorhüter]]></title>
         <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/welttorhuter/]]></link>
         <description><![CDATA[Die Wahl zum Welttorhüter des Jahres wird seit 1987 von der IFFHS (International Federation of Football History & Statistics) durchgeführt. Die...]]></description>
@@ -39,19 +49,9 @@
     
     
     <item>
-        <title><![CDATA[Weltfußballer des Jahrhunderts]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahrhunderts/]]></link>
-        <description><![CDATA[Im Jahr 1999 wurde von der IFFHS (International Federation of Football History & Statistics) der Weltfußballer des 20. Jahrhunderts gewählt....]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahrhunderts/]]></guid>
-        <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Weltfußballer des Jahres]]></title>
+        <title><![CDATA[WeltFußballer des Jahres]]></title>
         <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/]]></link>
-        <description><![CDATA[Seit 1991 wird diese Auszeichnung zum Weltfußballer des Jahres jährlich vom Weltfußballverband FIFA in Zürich offiziell verliehen. Seit 2001 wird auch...]]></description>
+        <description><![CDATA[Seit 1991 wird diese Auszeichnung zum WeltFußballer des Jahres jährlich vom WeltFußballverband FIFA in Zürich offiziell verliehen. Seit 2001 wird auch...]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
@@ -69,20 +69,20 @@
     
     
     <item>
-        <title><![CDATA[Frauen]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/frauen/]]></link>
-        <description><![CDATA[In der folgenden Tabelle sind die weiblichen Weltfußballerinnen des Jahres seit 2001 aufgeführt. Die deutsche Torjägerin Birgit Prinz brachte das...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/frauen/]]></guid>
+        <title><![CDATA[Herren]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></link>
+        <description><![CDATA[In der folgenden Tabelle sind die männlichen WeltFußballer des Jahres seit 1991 aufgeführt. Bisher wurden nur Spieler gewählt, die zur Zeit Ihrer Wahl...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
     
     
     
     <item>
-        <title><![CDATA[Herren]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></link>
-        <description><![CDATA[In der folgenden Tabelle sind die männlichen Weltfußballer des Jahres seit 1991 aufgeführt. Bisher wurden nur Spieler gewählt, die zur Zeit Ihrer Wahl...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></guid>
+        <title><![CDATA[Frauen]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/frauen/]]></link>
+        <description><![CDATA[In der folgenden Tabelle sind die weiblichen WeltFußballerinnen des Jahres seit 2001 aufgeführt. Die deutsche Torjägerin Birgit Prinz brachte das...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/frauen/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
     
