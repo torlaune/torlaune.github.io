@@ -3,7 +3,7 @@
 <channel><title>Tags » Ergebnisse</title>
     <link>https://www.torlaune.de</link>
     <description>Tags » Ergebnisse</description>
-    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 23:30:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -89,28 +89,28 @@
     
     
     <item>
-        <title><![CDATA[2. Bundesliga]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/2_bundesliga/]]></link>
-        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der 2. Bundesliga in Deutschland.break
+        <title><![CDATA[Serie A]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/serie_a/]]></link>
+        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Serie A in Italien.break
 
 
 var SCM_FIXTURES_BG_COLOR="#99cc66";
 var...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/2_bundesliga/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/serie_a/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     
     
     
     <item>
-        <title><![CDATA[Super League Schweiz]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/super_league_schweiz/]]></link>
-        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Super League in der Schweiz.break
+        <title><![CDATA[Eredivisie]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/eredivisie/]]></link>
+        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Eredivisie in den Niederlanden.break
 
 
 var SCM_FIXTURES_BG_COLOR="#99cc66";
 var...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/super_league_schweiz/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/eredivisie/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     

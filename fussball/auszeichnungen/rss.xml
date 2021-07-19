@@ -3,7 +3,7 @@
 <channel><title>Fussball » Auszeichnungen</title>
     <link>https://www.torlaune.de</link>
     <description>Fussball » Auszeichnungen</description>
-    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 23:30:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -29,16 +29,6 @@
     
     
     <item>
-        <title><![CDATA[Trainer]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/trainer/]]></link>
-        <description><![CDATA[Hier finden Sie Auflistungen verschiedener Ehrungen und Auszeichnungen, die an Fußballtrainer vergeben werden.]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/trainer/]]></guid>
-        <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
         <title><![CDATA[Schiedsrichter]]></title>
         <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/schiedsrichter/]]></link>
         <description><![CDATA[Hier finden Sie Auflistungen verschiedener Ehrungen und Auszeichnungen, die an Fußballschiedsrichter vergeben werden.]]></description>
@@ -53,6 +43,16 @@
         <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/]]></link>
         <description><![CDATA[Hier finden Sie Auflistungen verschiedener Ehrungen und Auszeichnungen, die an Fußballspieler vergeben werden.]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/]]></guid>
+        <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Trainer]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/trainer/]]></link>
+        <description><![CDATA[Hier finden Sie Auflistungen verschiedener Ehrungen und Auszeichnungen, die an Fußballtrainer vergeben werden.]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/trainer/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -79,20 +79,20 @@
     
     
     <item>
-        <title><![CDATA[WeltFußballer des Jahrhunderts]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahrhunderts/]]></link>
-        <description><![CDATA[Im Jahr 1999 wurde von der IFFHS (International Federation of Football History & Statistics) der WeltFußballer des 20. Jahrhunderts gewählt....]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahrhunderts/]]></guid>
+        <title><![CDATA[Weltschiedsrichter]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/schiedsrichter/weltschiedsrichter/]]></link>
+        <description><![CDATA[Die Wahl zum Weltschiedsrichter des Jahres wird seit 1987 von der IFFHS (International Federation of Football History & Statistics) durchgeführt. Die...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/schiedsrichter/weltschiedsrichter/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
     
     
     
     <item>
-        <title><![CDATA[Welttorhüter]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/welttorhuter/]]></link>
-        <description><![CDATA[Die Wahl zum Welttorhüter des Jahres wird seit 1987 von der IFFHS (International Federation of Football History & Statistics) durchgeführt. Die...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/welttorhuter/]]></guid>
+        <title><![CDATA[WeltFußballer des Jahrhunderts]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahrhunderts/]]></link>
+        <description><![CDATA[Im Jahr 1999 wurde von der IFFHS (International Federation of Football History & Statistics) der WeltFußballer des 20. Jahrhunderts gewählt....]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahrhunderts/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
     

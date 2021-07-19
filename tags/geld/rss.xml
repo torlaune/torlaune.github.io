@@ -3,7 +3,7 @@
 <channel><title>Tags » Geld</title>
     <link>https://www.torlaune.de</link>
     <description>Tags » Geld</description>
-    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 23:30:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -60,16 +60,6 @@ Browser unterstützt keine IFRAMES]]></description>
     
     
     <item>
-        <title><![CDATA[Money Money Money]]></title>
-        <link><![CDATA[https://www.torlaune.de/blog/money-money-money/]]></link>
-        <description><![CDATA[Das Finanzmagazin Forbes hat mal wieder Zahlen zu den Jahresgehältern der Top-Verdiener im ProfiFußball vorgelegt. Wer sich fragt, weshalb Top-Spiele...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/blog/money-money-money/]]></guid>
-        <pubDate>Fri, 30 Mar 2007 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
         <title><![CDATA[2007]]></title>
         <link><![CDATA[https://www.torlaune.de/fussball/statistik/geld/die-wertvollsten-vereine/2007/]]></link>
         <description><![CDATA[In der folgenden Tabelle sind die 25 wertvollsten Vereinsmannschaften im internationalen Fußball für das Jahr 2007 aufgeführt.break
@@ -85,6 +75,16 @@ RangVereinLandWert...]]></description>
         <link><![CDATA[https://www.torlaune.de/fussball/statistik/geld/top-verdiener/2006/]]></link>
         <description><![CDATA[In der folgenden Tabelle sind die 10 Fußballspieler aufgeführt, die am meisten Geld verdienen. Die geschätzten Jahreseinkommen errechnen sich aus dem...]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/statistik/geld/top-verdiener/2006/]]></guid>
+        <pubDate>Fri, 30 Mar 2007 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Money Money Money]]></title>
+        <link><![CDATA[https://www.torlaune.de/blog/money-money-money/]]></link>
+        <description><![CDATA[Das Finanzmagazin Forbes hat mal wieder Zahlen zu den Jahresgehältern der Top-Verdiener im ProfiFußball vorgelegt. Wer sich fragt, weshalb Top-Spiele...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/blog/money-money-money/]]></guid>
         <pubDate>Fri, 30 Mar 2007 00:00:00 </pubDate>
     </item>
     

@@ -3,9 +3,51 @@
 <channel><title>Fussball » Aktuell » Ergebnisse</title>
     <link>https://www.torlaune.de</link>
     <description>Fussball » Aktuell » Ergebnisse</description>
-    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 23:30:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    
+    <item>
+        <title><![CDATA[Serie A]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/serie_a/]]></link>
+        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Serie A in Italien.break
+
+
+var SCM_FIXTURES_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/serie_a/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Eredivisie]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/eredivisie/]]></link>
+        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Eredivisie in den Niederlanden.break
+
+
+var SCM_FIXTURES_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/eredivisie/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Bundesliga Österreich]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/bundesliga_osterreich/]]></link>
+        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Bundesliga in Österreich.break
+
+
+var SCM_FIXTURES_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/bundesliga_osterreich/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
     
     
     <item>
@@ -37,20 +79,6 @@ var...]]></description>
     
     
     <item>
-        <title><![CDATA[Eredivisie]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/eredivisie/]]></link>
-        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Eredivisie in den Niederlanden.break
-
-
-var SCM_FIXTURES_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/eredivisie/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
         <title><![CDATA[1. Bundesliga]]></title>
         <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/1_bundesliga/]]></link>
         <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der 1. Bundesliga in Deutschland.break
@@ -59,48 +87,6 @@ var...]]></description>
 var SCM_FIXTURES_BG_COLOR="#99cc66";
 var...]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/1_bundesliga/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Premier League]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/premier_league/]]></link>
-        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Premier League in England.break
-
-
-var SCM_FIXTURES_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/premier_league/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Ligue 1]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></link>
-        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Ligue 1 in Frankreich.break
-
-
-var SCM_FIXTURES_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></guid>
-        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Serie A]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/serie_a/]]></link>
-        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Serie A in Italien.break
-
-
-var SCM_FIXTURES_BG_COLOR="#99cc66";
-var...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/serie_a/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -135,14 +121,28 @@ var...]]></description>
     
     
     <item>
-        <title><![CDATA[Bundesliga Österreich]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/bundesliga_osterreich/]]></link>
-        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Bundesliga in Österreich.break
+        <title><![CDATA[Premier League]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/premier_league/]]></link>
+        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Premier League in England.break
 
 
 var SCM_FIXTURES_BG_COLOR="#99cc66";
 var...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/bundesliga_osterreich/]]></guid>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/premier_league/]]></guid>
+        <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Ligue 1]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></link>
+        <description><![CDATA[Die aktuellen Ergebnisse des letzten Spieltags der Ligue 1 in Frankreich.break
+
+
+var SCM_FIXTURES_BG_COLOR="#99cc66";
+var...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/ergebnisse/ligue_1/]]></guid>
         <pubDate>Thu, 21 Sep 2006 00:00:00 </pubDate>
     </item>
     

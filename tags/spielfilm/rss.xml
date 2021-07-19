@@ -3,7 +3,7 @@
 <channel><title>Tags » Spielfilm</title>
     <link>https://www.torlaune.de</link>
     <description>Tags » Spielfilm</description>
-    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 23:30:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -49,20 +49,20 @@
     
     
     <item>
-        <title><![CDATA[Monster's Ball]]></title>
-        <link><![CDATA[https://www.torlaune.de/videos/miro/2006/09/20/monsters_ball/]]></link>
-        <description><![CDATA[Und noch ein Videoclip aus dem Fernen Osten. Diesmal sind die Teilnehmer zwar behebiger, haben aber einen beängstigend strammen Schuss. Godzilla lässt...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/videos/miro/2006/09/20/monsters_ball/]]></guid>
+        <title><![CDATA[Kung Fußball]]></title>
+        <link><![CDATA[https://www.torlaune.de/videos/miro/2006/09/20/kung_fussball/]]></link>
+        <description><![CDATA[Wie Jackie Chan und seine Freunde Fußball spielen kann in diesem Filmausschnitt bewundert werden. Elegant und akrobatisch wie es von Kung Fu-Stars zu...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/videos/miro/2006/09/20/kung_fussball/]]></guid>
         <pubDate>Wed, 20 Sep 2006 00:00:00 </pubDate>
     </item>
     
     
     
     <item>
-        <title><![CDATA[Kung Fußball]]></title>
-        <link><![CDATA[https://www.torlaune.de/videos/miro/2006/09/20/kung_fussball/]]></link>
-        <description><![CDATA[Wie Jackie Chan und seine Freunde Fußball spielen kann in diesem Filmausschnitt bewundert werden. Elegant und akrobatisch wie es von Kung Fu-Stars zu...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/videos/miro/2006/09/20/kung_fussball/]]></guid>
+        <title><![CDATA[Monster's Ball]]></title>
+        <link><![CDATA[https://www.torlaune.de/videos/miro/2006/09/20/monsters_ball/]]></link>
+        <description><![CDATA[Und noch ein Videoclip aus dem Fernen Osten. Diesmal sind die Teilnehmer zwar behebiger, haben aber einen beängstigend strammen Schuss. Godzilla lässt...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/videos/miro/2006/09/20/monsters_ball/]]></guid>
         <pubDate>Wed, 20 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -74,16 +74,6 @@
         <description><![CDATA[Real Madrid ist ein Verein der Superlative. Wenn es um die erfolgreichsten Mannschaften, die teuersten Transfers, die häufigsten Trainerwechsel und...]]></description>
         <guid><![CDATA[https://www.torlaune.de/videos/pichichi/2006/09/20/real_madrid_der_film/]]></guid>
         <pubDate>Wed, 20 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Sommermärchen Wintermärchen]]></title>
-        <link><![CDATA[https://www.torlaune.de/blog/miro/2006/09/19/sommermarchen_wintermarchen/]]></link>
-        <description><![CDATA[Sönke Wortmanns Fußballfilm über die WM 2006 Deutschland. Ein Sommermärchen erregt schon vor der Premiere am 3.10.2006 Aufsehen. Ursprünglich sollte...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/blog/miro/2006/09/19/sommermarchen_wintermarchen/]]></guid>
-        <pubDate>Tue, 19 Sep 2006 00:00:00 </pubDate>
     </item>
     
     
@@ -103,6 +93,16 @@
         <link><![CDATA[https://www.torlaune.de/videos/miro/2006/09/19/trailer_zu_green_street/]]></link>
         <description><![CDATA[Matt (Elijah Wood - bekannt aus Herr der Ringe) zieht nach London, nachdem er wegen Kokainbesitzes von der Harvard-Universität geflogen ist. Dort...]]></description>
         <guid><![CDATA[https://www.torlaune.de/videos/miro/2006/09/19/trailer_zu_green_street/]]></guid>
+        <pubDate>Tue, 19 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Sommermärchen Wintermärchen]]></title>
+        <link><![CDATA[https://www.torlaune.de/blog/miro/2006/09/19/sommermarchen_wintermarchen/]]></link>
+        <description><![CDATA[Sönke Wortmanns Fußballfilm über die WM 2006 Deutschland. Ein Sommermärchen erregt schon vor der Premiere am 3.10.2006 Aufsehen. Ursprünglich sollte...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/blog/miro/2006/09/19/sommermarchen_wintermarchen/]]></guid>
         <pubDate>Tue, 19 Sep 2006 00:00:00 </pubDate>
     </item>
     

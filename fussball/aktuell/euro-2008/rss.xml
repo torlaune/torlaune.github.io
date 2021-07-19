@@ -3,9 +3,23 @@
 <channel><title>Fussball » Aktuell » Euro 2008</title>
     <link>https://www.torlaune.de</link>
     <description>Fussball » Aktuell » Euro 2008</description>
-    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 23:30:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    
+    <item>
+        <title><![CDATA[Gruppe B]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></link>
+        <description><![CDATA[Ergebnisse und die aktuelle Tabelle der Gruppe B der Euro 2008.
+
+	wt_table_width = '450px';
+	wt_font_family = 'arial';
+	wt_font_size =...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></guid>
+        <pubDate>Tue, 29 Apr 2008 00:00:00 </pubDate>
+    </item>
+    
     
     
     <item>
@@ -31,20 +45,6 @@
 	wt_font_family = 'arial';
 	wt_font_size =...]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-d/]]></guid>
-        <pubDate>Tue, 29 Apr 2008 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
-        <title><![CDATA[Gruppe B]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></link>
-        <description><![CDATA[Ergebnisse und die aktuelle Tabelle der Gruppe B der Euro 2008.
-
-	wt_table_width = '450px';
-	wt_font_family = 'arial';
-	wt_font_size =...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/aktuell/euro-2008/gruppe-b/]]></guid>
         <pubDate>Tue, 29 Apr 2008 00:00:00 </pubDate>
     </item>
     

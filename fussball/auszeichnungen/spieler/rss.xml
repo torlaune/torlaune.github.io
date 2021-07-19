@@ -3,7 +3,7 @@
 <channel><title>Fussball » Auszeichnungen » Spieler</title>
     <link>https://www.torlaune.de</link>
     <description>Fussball » Auszeichnungen » Spieler</description>
-    <lastBuildDate>Wed, 17 Mar 2021 23:25:59 </lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 23:30:22 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -39,16 +39,6 @@
     
     
     <item>
-        <title><![CDATA[Welttorhüter]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/welttorhuter/]]></link>
-        <description><![CDATA[Die Wahl zum Welttorhüter des Jahres wird seit 1987 von der IFFHS (International Federation of Football History & Statistics) durchgeführt. Die...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/welttorhuter/]]></guid>
-        <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
-    </item>
-    
-    
-    
-    <item>
         <title><![CDATA[WeltFußballer des Jahres]]></title>
         <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/]]></link>
         <description><![CDATA[Seit 1991 wird diese Auszeichnung zum WeltFußballer des Jahres jährlich vom WeltFußballverband FIFA in Zürich offiziell verliehen. Seit 2001 wird auch...]]></description>
@@ -69,10 +59,10 @@
     
     
     <item>
-        <title><![CDATA[Herren]]></title>
-        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></link>
-        <description><![CDATA[In der folgenden Tabelle sind die männlichen WeltFußballer des Jahres seit 1991 aufgeführt. Bisher wurden nur Spieler gewählt, die zur Zeit Ihrer Wahl...]]></description>
-        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></guid>
+        <title><![CDATA[Welttorhüter]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/welttorhuter/]]></link>
+        <description><![CDATA[Die Wahl zum Welttorhüter des Jahres wird seit 1987 von der IFFHS (International Federation of Football History & Statistics) durchgeführt. Die...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/welttorhuter/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
     
@@ -83,6 +73,16 @@
         <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/frauen/]]></link>
         <description><![CDATA[In der folgenden Tabelle sind die weiblichen WeltFußballerinnen des Jahres seit 2001 aufgeführt. Die deutsche Torjägerin Birgit Prinz brachte das...]]></description>
         <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/frauen/]]></guid>
+        <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
+    </item>
+    
+    
+    
+    <item>
+        <title><![CDATA[Herren]]></title>
+        <link><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></link>
+        <description><![CDATA[In der folgenden Tabelle sind die männlichen WeltFußballer des Jahres seit 1991 aufgeführt. Bisher wurden nur Spieler gewählt, die zur Zeit Ihrer Wahl...]]></description>
+        <guid><![CDATA[https://www.torlaune.de/fussball/auszeichnungen/spieler/weltfussballer-des-jahres/herren/]]></guid>
         <pubDate>Mon, 04 Sep 2006 00:00:00 </pubDate>
     </item>
     
